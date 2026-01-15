@@ -1,1 +1,2 @@
 requests==2.*
+google-cloud-bigquery==3.*
